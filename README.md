@@ -56,7 +56,7 @@
 <body>
     <div class="container">
         <div class="image-container">
-            <img src="https://drive.google.com/file/d/1ZDLy64bimODW6qAS97UxAOdK94jJriuI/view?usp=sharing" alt="Placeholder Image">
+            <img src="blob:https://github.com/636a0a8c-e57b-44ef-9521-9e0729ed45ea" alt="Placeholder Image">
         </div>
         <div class="search-button-container">
             <button class="search-button">Search</button>
